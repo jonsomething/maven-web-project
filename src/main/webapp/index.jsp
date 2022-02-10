@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+modified at 10:20am
 <h1>Hello JSP and Servlet!</h1>
 <form action="HelloServlet" method="post">
 Enter your name: <input type="text" name="yourName" size="20">
